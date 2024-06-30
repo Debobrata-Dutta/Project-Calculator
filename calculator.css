@@ -8,13 +8,12 @@
 }
 
 body{
-:"/Project-Calculator/green-leaves-ferns-leaf-background-spring-closeup-5k-2560x1440-2445.jpg";
     width: 100%;
     height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url("");
+    background-image: url("/Project-Calculator/green-leaves-ferns-leaf-background-spring-closeup-5k-2560x1440-2445.jpg");
     height: 1080px;
 
 }
